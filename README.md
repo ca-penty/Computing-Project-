@@ -1,1 +1,2 @@
- Computing-Project
+ Hi! 
+ This is my computing project :)
