@@ -31,6 +31,10 @@ while True:
       feelings_list.append("ok")
       encouragment_list.append("we should also be the best of ourselves!")
       counter += 1
+    if each_word == "high":
+      feelings_list.append("high")
+      encouragment_list.append("...It's great! But don't be too high, you gotta chill sometimes eh?")
+      counter += 1
 
   if counter == 0:
     
